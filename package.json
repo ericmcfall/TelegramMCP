@@ -2,6 +2,7 @@
   "name": "telegram-send-mcp",
   "version": "1.0.0",
   "description": "Send-only MCP server for a Telegram bot",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {

@@ -81,4 +81,8 @@ npm run build
 npm test
 ```
 
-Source is in `src/`. `npm run build` bundles it into `server.mjs`, so rebuild before running the tests or copying the folder.
+Source is in `src/`. `npm run build` bundles it into `server.mjs` and regenerates `THIRD_PARTY_LICENSES.txt`, so rebuild before running the tests or copying the folder.
+
+## License
+
+MIT. See [LICENSE](LICENSE). `server.mjs` also includes third-party packages, which are listed with their licenses in [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
